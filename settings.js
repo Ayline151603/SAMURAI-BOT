@@ -15,7 +15,7 @@ global.wm = '𝐒𝐀𝐌𝐔𝐑𝐀𝐈-𝐁𝐎𝐓 🏵️'
 global.vs = '1.0 (beta)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +50231458537
+global.botNumberCode = "522218851675" //Ejemplo: +50231458537
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
